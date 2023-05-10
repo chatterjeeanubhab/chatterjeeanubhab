@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me <a href="chattopadhyayanubhab@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="chattopadhyayanubhab@gmail.com" height="30" width="40" /></a>
+- 📫 How to reach me <a href="chattopadhyayanubhab@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="www.gmail.com" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
