@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://wallpaperaccess.com/full/3928211.jpg" alt="chatterjeeanubhab" /> </p>
+<p align="left"> <img src="https://wallpaperaccess.com/full/5673733.jpg" /> </p>
 <h1 align="center">Hi 👋, I'm Anubhab Chattopadhyay</h1>
 <h3 align="center">A passionate developer from India</h3>
 
