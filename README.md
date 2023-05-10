@@ -8,13 +8,13 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **chattopadhyayanubhab@gmail.com**
+- 📫 How to reach me <a href="chattopadhyayanubhab@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="chattopadhyayanubhab@gmail.com" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anubhab-chattopadhyay-77947a235/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="https://www.linkedin.com/in/anubhab-chattopadhyay-77947a235/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/anubhab.chatterjee.754/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=118497&format=png" alt="https://www.facebook.com/anubhab.chatterjee.754/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anubhab.chatterjee100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anubhab.chatterjee100/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/anubhab.chatterjee.754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anubhab.chatterjee.754/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anubhab.chatterjee100/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="https://www.instagram.com/anubhab.chatterjee100/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
