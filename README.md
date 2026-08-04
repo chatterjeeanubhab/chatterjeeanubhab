@@ -44,7 +44,6 @@ Building scalable backend applications and event-driven systems.
 - 🚀 Building REST APIs and Event-Driven Applications using **Apache Kafka**
 - 🌱 Currently learning **Distributed Systems, System Design & Advanced Spring Boot**
 - 🏆 Solved **700+ LeetCode Problems**
-- 🎯 Long-term goal: **Technical Architect**
 
 ---
 
