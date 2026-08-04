@@ -1,27 +1,150 @@
-<p align="left"> <img src="https://wallpaperaccess.com/full/5673733.jpg" /> </p>
-<h1 align="center">Hi 👋, I'm Anubhab Chattopadhyay</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatterjeeanubhab&label=Profile%20views&color=0e75b6&style=flat" alt="chatterjeeanubhab" /> </p>
-
-- 🌱 I’m currently learning **Mern**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me  <a href="mailto:chattopadhyayanubhab@gmail.com" ><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="www.gmail.com" height="30" width="40" /></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anubhab-chattopadhyay-77947a235/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/anubhab-chattopadhyay-77947a235/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/anubhab.chatterjee.754/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="https://www.facebook.com/anubhab.chatterjee.754/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anubhab.chatterjee100/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="https://www.instagram.com/anubhab.chatterjee100/" height="30" width="40" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=700&center=true&vCenter=true&width=435&lines=Coffee+%E2%98%95;Code+%F0%9F%92%BB;Debug+%F0%9F%90%9E;Repeat+%F0%9F%94%81" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/511px-Linux_Logo_in_Linux_Libertine_Font.svg.png?20220904132037" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354152/oracle.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/473742/pandas.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Anubhab Chattopadhyay</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chatterjeeanubhab&show_icons=true&locale=en&layout=compact" alt="chatterjeeanubhab" /></p>
+<h3 align="center">
+Backend Software Engineer • Java • Spring Boot • Microservices • Apache Kafka
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chatterjeeanubhab&show_icons=true&locale=en" alt="chatterjeeanubhab" /></p>
+<p align="center">
+Building scalable backend applications and event-driven systems.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chatterjeeanubhab&" alt="chatterjeeanubhab" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chatterjeeanubhab&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/Apache_Camel-E97627?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Software Engineer at **TCS**
+- ☕ Backend Developer specializing in **Java & Spring Boot**
+- 🚀 Building REST APIs and Event-Driven Applications using **Apache Kafka**
+- 🌱 Currently learning **Distributed Systems, System Design & Advanced Spring Boot**
+- 🏆 Solved **700+ LeetCode Problems**
+- 🎯 Long-term goal: **Technical Architect**
+
+---
+
+## 🔥 Featured Projects
+
+### 📒 Spring Boot Notes API
+- RESTful CRUD APIs
+- Pagination & Sorting
+- Validation
+- Exception Handling
+- Layered Architecture
+
+### ⚡ EventBridgeX
+- Event-Driven Microservices
+- Apache Kafka
+- Producer & Consumer Services
+- Dockerized Environment
+- JSON Event Streaming
+
+### 🌐 Personal Portfolio
+Interactive portfolio showcasing my projects, experience and technical skills.
+
+➡️ **Live:** **https://portfolio-java-wpek.onrender.com/**
+
+---
+
+## 🛠 Core Skills
+
+```text
+Java
+Spring Boot
+REST APIs
+Microservices
+Apache Kafka
+Apache Camel
+SQL
+PostgreSQL
+MySQL
+Docker
+AWS
+JUnit
+Mockito
+Git
+Maven
+Postman
+Splunk
+Bitbucket
+
+OOP
+SOLID Principles
+Design Patterns
+Multithreading
+Concurrency
+DSA
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:chattopadhyayanubhab@gmail.com">
+<img src="https://www.svgrepo.com/show/349378/gmail.svg" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anubhab-chattopadhyay-77947a235/">
+<img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40"/>
+</a>
+
+<a href="https://portfolio-java-wpek.onrender.com/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/anubhab.chatterjee100/">
+<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="40"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chatterjeeanubhab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chatterjeeanubhab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=chatterjeeanubhab&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
